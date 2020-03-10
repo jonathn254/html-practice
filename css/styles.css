@@ -1,0 +1,48 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    font-size:larger;
+    font-family:fantasy;
+    color: chartreuse;
+    text-transform: uppercase;
+}
+h2 {
+    font-style: italic;
+    text-align: center;
+        }
+        ul {
+    font-size: 20px;
+    line-height: 30px;
+}
+ol{
+    text-align:center;
+    font-weight: 100px;
+    color:green;
+    width: 75%;
+    font-style: italic;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    float: right;
+    color: indigo;
+}
+.collage{
+   color: red;
+}
+a:hover{
+    color: red;
+}
+.about{
+    color: orange;
+}
+ .jumbotron{
+     color: chartreuse;
+ }
+ .card{
+     background-color: blueviolet;
+    font-style: italic;
+ }
