@@ -1,8 +1,7 @@
 # navigation
 ## jonathan
 ### creating readme file
-
-## contains
+## technologies
 * html
 * css
 * bootstrap
